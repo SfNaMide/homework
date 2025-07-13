@@ -1,0 +1,49 @@
+.Open-Sans {
+    font-family: "Open-Sans", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 300;
+    font-style: italic;
+}
+.Open-Sans1 {
+    font-family: "Open-Sans1", sans-serif;
+    font-size: 10px;
+    line-height: 15px;
+    text-align: justify;
+    font-weight: 300;
+    font-style: initial;
+    text-decoration: line-through;
+}
+.Open-Sans2 {
+    font-family: "Open-Sans1", sans-serif;
+    font-size: 10px;
+    line-height: 15px;
+    text-align: justify;
+    font-weight: 300;
+    font-style: initial;
+    text-transform: uppercase;
+}
+.Open-Sans3 {
+    font-family: "Open-Sans1", sans-serif;
+    font-size: 10px;
+    line-height: 15px;
+    text-align: justify;
+    font-weight: 300;
+    font-style: initial;
+    word-spacing: 10px;
+    text-decoration-line: overline;
+    text-decoration-style: wavy;
+    
+}
+.Open-Sans4 {
+    font-family: "Open-Sans1", sans-serif;
+    font-size: 10px;
+    line-height: 15px;
+    text-align: justify;
+    font-weight: 300;
+    font-style: initial;
+    text-decoration: dotted;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
