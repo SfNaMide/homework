@@ -32,8 +32,7 @@
     font-weight: 300;
     font-style: initial;
     word-spacing: 10px;
-    text-decoration-line: overline;
-    text-decoration-style: wavy;
+    text-decoration: overline wavy #ef48ef;
     
 }
 .Open-Sans4 {
@@ -43,7 +42,5 @@
     text-align: justify;
     font-weight: 300;
     font-style: initial;
-    text-decoration: dotted;
-    text-decoration: underline;
-    text-decoration-thickness: 2px;
+    text-decoration: underline solid ;
 }
